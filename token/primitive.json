@@ -1,0 +1,36 @@
+{
+  "FontFamily": {
+    "Sans": {
+      "$type": "fontFamilies",
+      "$value": "Inter"
+    },
+    "Mono": {
+      "$type": "fontFamilies",
+      "$value": "Geist Mono"
+    }
+  },
+  "FontWeight": {
+    "400": {
+      "$type": "fontWeights",
+      "$value": "400"
+    },
+    "500": {
+      "$type": "fontWeights",
+      "$value": "500"
+    },
+    "600": {
+      "$type": "fontWeights",
+      "$value": "600"
+    }
+  },
+  "LetterSpacing": {
+    "Wide": {
+      "$type": "letterSpacing",
+      "$value": "1px"
+    },
+    "Tight": {
+      "$type": "letterSpacing",
+      "$value": "-1px"
+    }
+  }
+}
